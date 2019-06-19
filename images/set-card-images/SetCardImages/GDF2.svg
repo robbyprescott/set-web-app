@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="GDF2.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.1984084"
+     inkscape:cx="871.10761"
+     inkscape:cy="1006.459"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     borderlayer="false"
+     showborder="false"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="false"
+     inkscape:window-width="783"
+     inkscape:window-height="691"
+     inkscape:window-x="713"
+     inkscape:window-y="41"
+     inkscape:window-maximized="0"
+     inkscape:snap-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       orientation="1,0"
+       position="3.1869402,-3.1869612"
+       id="guide3777" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1003.1869,-3.1869612"
+       id="guide3779" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="503.18694,-503.18696"
+       id="guide3781" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-457.44262,796.81304"
+       id="guide3785" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-360.3304,403.09712"
+       id="guide3789" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="221.37989,1596.813"
+       id="guide3791" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-239.24967,-3.1869612"
+       id="guide3793" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3871"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="3.1869402"
+       originy="-3.1869612" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="backCards"
+     transform="translate(3.1869402,550.82476)" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3.1869402,550.82476)">
+    <rect
+       style="fill:#fbfbfb;fill-opacity:1;stroke:#999999;stroke-width:6.37388039;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3007-6-7"
+       width="993.6261"
+       height="1593.6261"
+       x="0"
+       y="-547.63782"
+       rx="60.373772"
+       ry="61.035278" />
+    <g
+       id="g5100-0-2"
+       transform="translate(-3.1871117,18.844782)"
+       style="fill:#00b259;fill-opacity:1">
+      <rect
+         transform="matrix(0.8847019,-0.46615722,0.8847019,0.46615722,0,0)"
+         y="124.22481"
+         x="59.158958"
+         height="381.77835"
+         width="381.77835"
+         id="rect4647-9-2-0"
+         style="fill:#00b259;fill-opacity:1;stroke:none" />
+      <rect
+         transform="matrix(0.8847019,-0.46615722,0.8847019,0.46615722,0,0)"
+         y="553.26459"
+         x="-369.88086"
+         height="381.77835"
+         width="381.77835"
+         id="rect4647-1-4-9"
+         style="fill:#00b259;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="stri[eys"
+     style="display:inline"
+     transform="translate(3.1869402,550.82476)" />
+</svg>

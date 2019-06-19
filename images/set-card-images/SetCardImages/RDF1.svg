@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="RDF1.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.070147961"
+     inkscape:cx="967.82875"
+     inkscape:cy="476.68727"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     borderlayer="false"
+     showborder="false"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="false"
+     inkscape:window-width="708"
+     inkscape:window-height="423"
+     inkscape:window-x="693"
+     inkscape:window-y="162"
+     inkscape:window-maximized="0"
+     inkscape:snap-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       orientation="1,0"
+       position="3.1869402,-3.1869612"
+       id="guide3777" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1003.1869,-3.1869612"
+       id="guide3779" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="503.18694,-503.18696"
+       id="guide3781" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-457.44262,796.81304"
+       id="guide3785" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-496.81306,1196.813"
+       id="guide3787" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-352.38706,396.81304"
+       id="guide3789" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="221.37989,1596.813"
+       id="guide3791" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-239.24967,-3.1869612"
+       id="guide3793" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3871"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="3.1869402"
+       originy="-3.1869612" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="backCards"
+     transform="translate(3.1869402,550.82476)" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3.1869402,550.82476)">
+    <rect
+       style="fill:#fbfbfb;fill-opacity:1;stroke:#999999;stroke-width:6.37388039;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3007-2"
+       width="993.6261"
+       height="1593.6261"
+       x="0"
+       y="-547.63782"
+       rx="60.373772"
+       ry="61.035278" />
+    <rect
+       style="fill:#ef3e42;fill-opacity:1;stroke:none"
+       id="rect4647-9-1"
+       width="381.77835"
+       height="381.77835"
+       x="-177.37352"
+       y="357.15518"
+       transform="matrix(0.8847019,-0.46615722,0.8847019,0.46615722,0,0)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="stri[eys"
+     style="display:inline"
+     transform="translate(3.1869402,550.82476)" />
+</svg>
